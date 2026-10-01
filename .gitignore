@@ -1,0 +1,28 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Variáveis de Ambiente e Credenciais
+.env
+
+# Arquivos gerados pela aplicação e planilhas de teste/saída
+*.xlsx
+*.xls
+Cotacoes.xlsx
+
+# Byte-compiled / Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e arquivos temporários
+*.log
+*.tmp
